@@ -1,4 +1,33 @@
-Hey! Welcome to my Git. I am an emerging Data Analyst and currently pursuing Artificial Intelligence and Machine Learning post graduate diploma.
-My skillset invloves python, sql, Tabluea and extensive knowledge of Machine learning algorithms. I have worked on various algorithms to build effective and robust models like Restaurant recommendation system, object detection. 
-I also hold a bachelor's in electronics and communication engineering which involved various major individual projects like helper kit for deaf and dumb people, smart city and hovercraft. 
-Alot of work is still needed, you can reach out to me via email- gouravdeepsingh23@gmail.com
+<h1 align="center">Hi 👋, I'm Gouravdeep Singh</h1>
+<h3 align="center">An Emerging Data Analyst</h3>
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/30c5ffe56bf81306c9af85f60b1e71240939f0abf1b80541dfce8a9dd28cdde4/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravdeep-singh&label=Profile%20views&color=0e75b6&style=flat" alt="gouravdeep-singh" /> </p>
+
+- 🔭 I’m currently pursuing **AI and Machine Learning Post graduate diploma**
+
+- 🌱 I’m currently learning **Power BI, Javascript**
+
+- 💬 Ask me about **SQL,Python, Tableau, Deep learning, Machine Learning Algorithms**
+
+- 📫 How to reach me **gouravdeepsingh23@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/Gouravdeep-Singh/Resume/blob/main/Gourav_resume.pdf](https://github.com/Gouravdeep-Singh/Resume/blob/main/Gourav_resume.pdf)
+
+- ⚡ Fun fact **My work ethic makes me stand out**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gouravdeep-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gouravdeep-singh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravdeep-singh&show_icons=true&locale=en&layout=compact" alt="gouravdeep-singh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravdeep-singh&show_icons=true&locale=en" alt="gouravdeep-singh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravdeep-singh&" alt="gouravdeep-singh" /></p>
