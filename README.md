@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravdeep-singh&label=Profile%20views&color=0e75b6&style=flat" alt="gouravdeep-singh" /> </p>
 
-- 🔭 I’m currently pursuing **AI and Machine Learning Post graduate diploma**
+- 🔭 I have graduated with an **AI and Machine Learning Post graduate diploma**
 
-- 🌱 I’m currently learning **Power BI, Javascript**
+- 🌱 I’m currently learning **Power BI**
 
-- 💬 Ask me about **SQL,Python, Tableau, Deep learning, Machine Learning Algorithms**
+- 💬 Ask me about **SQL, Python, Tableau, Deep learning, Machine Learning Algorithms**
 
 - 📫 How to reach me **gouravdeepsingh23@gmail.com**
 
