@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gouravdeep Singh</h1>
 <h3 align="center">An Emerging Data Analyst</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/30c5ffe56bf81306c9af85f60b1e71240939f0abf1b80541dfce8a9dd28cdde4/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
+<img align="right" alt="Coding" width="400" src="https://getthematic.com/insights/content/images/wordpress/2019/01/shutterstock_1112175710-1.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravdeep-singh&label=Profile%20views&color=0e75b6&style=flat" alt="gouravdeep-singh" /> </p>
