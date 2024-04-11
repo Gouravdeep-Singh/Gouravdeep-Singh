@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gouravdeepsingh23@gmail.com**
 
-- 📄 Know about my experiences [[https://github.com/Gouravdeep-Singh/Resume/blob/main/Gourav_resume.pdf](https://github.com/Gouravdeep-Singh/Resume/blob/main/Gourav_resume.pdf)](https://github.com/Gouravdeep-Singh/Resume/blob/main/Gouravdeep_resume.pdf)
+- 📄 Know about my experiences (https://github.com/Gouravdeep-Singh/Resume/blob/main/Gouravdeep_resume.pdf)
 
 - ⚡ Fun fact **My work ethic makes me stand out**
 
