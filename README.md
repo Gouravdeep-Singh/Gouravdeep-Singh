@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gouravdeep Singh</h1>
-<h3 align="center">An Emerging Data Analyst</h3>
+<h3 align="center">A Delivery Analyst with a passion for Data Analytics</h3>
 
 <img align="right" alt="Coding" width="400" src="https://getthematic.com/insights/content/images/wordpress/2019/01/shutterstock_1112175710-1.jpg">
 
@@ -8,15 +8,9 @@
 
 - 🔭 I have graduated with an **AI and Machine Learning Post graduate diploma**
 
-- 🌱 I’m currently learning **Power BI**
+- 💬 Ask me about **SQL, Python, Tableau, Machine Learning**
 
-- 💬 Ask me about **SQL, Python, Tableau, Deep learning, Machine Learning Algorithms**
-
-- 📫 How to reach me **gouravdeepsingh23@gmail.com**
-
-- 📄 Know about my experiences (https://github.com/Gouravdeep-Singh/Resume/blob/main/Gouravdeep_resume.pdf)
-
-- ⚡ Fun fact **My work ethic makes me stand out**
+- 📫 How to reach me **gouravdeep76@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
