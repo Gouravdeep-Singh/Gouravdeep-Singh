@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gouravdeep Singh</h1>
-<h3 align="center">A Delivery Analyst with a passion for Data Analytics</h3>
+<h1 align="center">Hey 👋, I'm Gouravdeep Singh</h1>
+<h3 align="center">Passionate about Data Analytics</h3>
 
 <img align="right" alt="Coding" width="400" src="https://getthematic.com/insights/content/images/wordpress/2019/01/shutterstock_1112175710-1.jpg">
 
